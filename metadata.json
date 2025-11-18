@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sistema de Vendas",
+  "description": "Uma aplicação de dashboard de vendas para visualizar e filtrar dados de vendas. Este sistema permite a filtragem por vários critérios e apresenta os dados em um dashboard e uma tabela detalhada.",
+  "requestFramePermissions": []
+}
